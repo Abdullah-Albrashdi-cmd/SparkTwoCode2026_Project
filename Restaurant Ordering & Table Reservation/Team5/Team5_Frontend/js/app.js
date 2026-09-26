@@ -12,7 +12,7 @@
    You rarely need to change this file.
    ============================================================ */
 
-/* 1) Where is the backend?  Change the port if yours is different. */
+/* 1) Where is the backend? This project runs on the HTTP launch profile by default. */
 const API_BASE = "http://localhost:5073";
 
 /* 2) The address of every backend action we use.
